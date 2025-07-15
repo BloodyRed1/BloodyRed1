@@ -13,5 +13,5 @@
 💬 Ask me about: C#, Python, APIs, data integration, and web scraping  
 🤝 I’m open to collaboration on software development projects  
 📫 How to reach me: [BloodyredVX@gmail.com]  
-⚡ Fun fact: I love turning complex problems into clean, elegant solutions Also I am like watch anime!!
+⚡ Fun fact: I love turning complex problems into clean, elegant solutions, and I also like watching anime!
 -->
