@@ -3,7 +3,7 @@
 🎓 I graduated from the Department of Information Technology at Ling Tung University, where I ranked second in my class.  
 📚 During my studies, I served as a teaching assistant intern and actively participated in team projects, gaining strong collaboration skills and a deep sense of responsibility.
 
-💼 I interned at **King Feng Machinery Industrial Co., Ltd.** as a junior engineer.  
+💼 I previously worked at Cing Feng Machine Industrial Co., Ltd. as a junior engineer.  
 🔧 My work included:
 - Developing C# API interfaces
 - Integrating data and building crawlers with Python
