@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Jun-Yang Huang 
 
-<!--
-**BloodyRed1/BloodyRed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I graduated from the Department of Information Technology at Ling Tung University, where I ranked second in my class.  
+📚 During my studies, I served as a teaching assistant intern and actively participated in team projects, gaining strong collaboration skills and a deep sense of responsibility.
 
-Here are some ideas to get you started:
+💼 I interned at **King Feng Machinery Industrial Co., Ltd.** as a junior engineer.  
+🔧 My work included:
+- Developing C# API interfaces
+- Integrating data and building crawlers with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently looking for opportunities as a **Software Engineer** or **Assistant Engineer** where I can apply my skills and contribute to meaningful projects.
+
+💬 Ask me about: C#, Python, APIs, data integration, and web scraping  
+🤝 I’m open to collaboration on software development projects  
+📫 How to reach me: [BloodyredVX@gmail.com]  
+⚡ Fun fact: I love turning complex problems into clean, elegant solutions!
 -->
